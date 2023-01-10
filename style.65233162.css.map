@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,gBACE,eACF,CAEA,cACE,aACF,CAEA,UACE,eACF","file":"style.65233162.css","sourceRoot":"..\\src","sourcesContent":[".distanceGroups {\n  margin-top: 20px;\n}\n\n.distanceboth {\n  margin: 10px 0;\n}\n\n.distance {\n  margin-top: 10px;\n}\n"]}
